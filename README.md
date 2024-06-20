@@ -1,5 +1,4 @@
-# bpa1
-Practical Application 1
+# Building Practical Applications 1 - Assignment 5.1
 
 This repository contains an analysis of Amazon Mechanical Turk data from the UCI Machine Learning repository.
 
